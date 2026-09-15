@@ -11,6 +11,11 @@ docker rmi <imagem>       # Remove uma imagem
 docker rm <container>     # Remove um container
 
 ## Primeiro Teste Realizado
-Data: [Data Atual]
+Data: [15/09/2026]
 Comando executado: docker run hello-world
 Resultado: Container executou com sucesso!
+## Container Interativo Testado
+docker run -it ubuntu:latest /bin/bash  # Executa Ubuntu interativo
+- Consegui executar comandos dentro do container
+- O container tem seu próprio sistema de arquivos
+- Ao sair com 'exit', o container para
