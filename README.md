@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32268913/README.md)
 # estudo-docker-containers
 "Estudo direcionado sobre Docker e conteinerização"
 # Estudo Docker - Containers
@@ -6,10 +5,10 @@
 ## Sobre
 Este repositório documenta meu aprendizado sobre Docker e containerização.
 
-Autor:Madson Ferreira de souza
-Curso: ciberseguraça
-Disciplina: banco de dados
-Data: 15/09/2026
+**Autor:** [Seu Nome]
+**Curso:** [Nome do seu Curso Técnico]
+**Disciplina:** [Nome da Disciplina]
+**Data:** [Data Atual]
 
 ## O que estou aprendendo
 - Conceitos fundamentais do Docker
